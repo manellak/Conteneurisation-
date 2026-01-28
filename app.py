@@ -1,0 +1,5 @@
+print("Hello, World!")
+print("This is a sample Python application.")
+print("Enjoy coding!")  
+print("Goodbye, World!")
+print("This is an additional line added to the application.")
